@@ -11,6 +11,7 @@
 <body style="background-image: url('image1.png');">
     <div class="container">
         <h1>Body Mass Index Calculator</h1>
+        <button type="button" id="infoBtn">Info</button>
         <form id="bmiForm" action="save_bmi.php" method="POST">
             <div class="form-group">
                 <label for="nama">Nama:</label>
@@ -25,6 +26,8 @@
                 <input type="number" id="tinggi" name="tinggi" required>
             </div>
             <button type="submit">Hitung BMI</button>
+            <button type="button" id="resetBtn">Reset</button>
+            <button type="button" id="showDataBtn">Tampilkan Data</button>
         </form>
         <div id="result"></div>
     </div>
