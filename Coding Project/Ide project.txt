@@ -1,0 +1,10 @@
+Idea Proyek: Aplikasi Pencatat BMI
+
+Deskripsi Singkat:
+	BMI adalah indikator pengukuran yang digunakan untuk menentukan kategori berat badan ideal atau tidak. BMI dikembangkan oleh Adolphe Quetelet selama abad ke-19. Melalui hasil perhitungan BMI, Anda akan mengetahui kategori berat badan, yaitu kurus, ideal, berlebihan, atau bahkan obesitas.
+
+	Aplikasi Pencatat BMI adalah sebuah aplikasi web sederhana yang memungkinkan pengguna untuk menghitung dan mencatat Body Mass Index (BMI) mereka. Pengguna dapat memasukkan informasi seperti nama, berat badan, dan tinggi badan ke dalam formulir. Setelah mengisi formulir, aplikasi akan menghitung BMI pengguna dan menampilkan hasilnya, beserta kategori BMI yang sesuai. Selain itu, pengguna dapat melihat data BMI yang telah mereka input sebelumnya dan mereset data tersebut.
+
+	Aplikasi ini menggunakan HTML, CSS, JavaScript, dan PHP untuk mengimplementasikan fungsionalitasnya. Ketika pengguna mengirimkan formulir, data BMI akan disimpan ke dalam database menggunakan PHP. Data BMI juga dapat diambil dari database dan ditampilkan ke pengguna menggunakan teknik AJAX.
+
+	Dengan Aplikasi Pencatat BMI ini, pengguna dapat dengan mudah menghitung BMI mereka sendiri, mencatatnya, dan melacak perubahan BMI dari waktu ke waktu. Ini bisa menjadi alat yang bermanfaat dalam upaya menjaga kesehatan dan kebugaran.
